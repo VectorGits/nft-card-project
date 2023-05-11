@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://your-solution-url.com)
+- Live Site URL: [Live site](https://your-live-site-url.com)
 
 ## My process
 
@@ -53,7 +53,7 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Some of the things I learned during this project
 
 To see how you can add code snippets, see below:
 
@@ -61,8 +61,14 @@ To see how you can add code snippets, see below:
 <h1>Some HTML code I'm proud of</h1>
 ```
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+.image-container{
+    width: 100%;
+    height: 50vh; 
+    max-height: 302px;
+    background-image: url('images/image-equilibrium.jpg');
+    background-position: center;
+    background-position: fixed;
+    background-size: cover; /* This line especially */
 }
 ```
 ```js

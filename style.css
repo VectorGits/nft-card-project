@@ -36,7 +36,7 @@ body {
     padding: 1em;
     margin-inline: auto;
     background-color: var(--very-drk-blue-card);
-    box-shadow: 0rem 1.5625rem 3.125rem rgba(0, 0, 0, 0.0952917);
+    box-shadow: 0rem 1.5rem .2rem 1rem hsla(216, 61%, 9%, 0.774);
 }
 
 h1 {
