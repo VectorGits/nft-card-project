@@ -25,6 +25,7 @@ body {
 
 .card {
     position: relative;
+    margin-top: 15vh;
     width: 280px;
     /* outline: 2px solid blue; */
     max-width: 21rem;
@@ -220,6 +221,10 @@ h1:hover {
 .attribution a {
     color: var(--cyan);
     text-decoration: none;
+}
+
+footer {
+    margin-bottom: 20vh;
 }
 
 
