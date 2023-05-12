@@ -114,7 +114,7 @@ h1:hover {
 
 .img1::before {
     position: absolute;
-    content: url('/Frontend-Mentor/nft-preview-card-component-main/images/icon-view.svg');
+    content: url('./images/icon-view.svg');
     background-color: var(--cyan);
     height: 100%;
     width: 100%;
